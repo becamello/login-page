@@ -113,6 +113,9 @@
 }
 
 @media only screen and (max-width: 550px){
+    body {
+        background-color: #201b2c;
+    }
     .main-login {
         flex-direction: column;
     }
